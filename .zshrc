@@ -54,4 +54,9 @@ export HCPM_DATA=/home/a-fsobczak/code/hcpm/data_sample
 
 # AFNI
 export PATH=$PATH:/home/a-fsobczak/abin/
+# add afni Roi Average plugin
+export AFNI_ALLOW_ROIAVERAGE_PLUGIN=YES
+
+# go - a YouCompleteMe (vim plugin) requirement
+export PATH=$PATH:/usr/local/go/bin
 
