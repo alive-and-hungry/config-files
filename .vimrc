@@ -46,6 +46,7 @@ Plugin 'nvie/vim-flake8'
 Plugin 'vim-airline/vim-airline'
 Plugin 'scrooloose/nerdtree'
 Plugin 'kien/ctrlp.vim'
+Plugin 'Townk/vim-autoclose'
 " color schemes
 Plugin 'jaredgorski/spacecamp'
 Plugin 'skielbasa/vim-material-monokai'
