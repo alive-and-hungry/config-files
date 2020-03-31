@@ -13,4 +13,4 @@ Vundle is the used Vim extension manager. Clone it directly into the ~/.vim/bund
 
 Run `:PluginInstall` after downloading the .vimrc file.
 
-Follow YouCompleteMe installation guidelines after running :PluginInstall within Vim.
+Follow YouCompleteMe installation guidelines after running `:PluginInstall` within Vim.
