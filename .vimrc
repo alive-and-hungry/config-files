@@ -45,6 +45,7 @@ Plugin 'vim-syntastic/syntastic'
 Plugin 'nvie/vim-flake8'
 Plugin 'vim-airline/vim-airline'
 Plugin 'scrooloose/nerdtree'
+Plugin 'kien/ctrlp.vim'
 " color schemes
 Plugin 'jaredgorski/spacecamp'
 Plugin 'skielbasa/vim-material-monokai'
