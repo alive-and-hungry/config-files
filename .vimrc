@@ -6,6 +6,11 @@ set nocompatible
 
 set encoding=utf-8
 
+" map leader to <space>
+let mapleader = " "
+" use leader L to facilitate buffer selection
+nnoremap <leader>l :ls<CR>:b<space>
+
 " splits navigation
 nnoremap <C-J> <C-W><C-J>
 nnoremap <C-K> <C-W><C-K>
