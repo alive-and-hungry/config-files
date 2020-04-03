@@ -31,6 +31,9 @@ unset __conda_setup
 ## # Manual conda alternative
 ## . /home/a-fsobczak/programs/anaconda3/etc/profile.d/conda.sh
 
+# enable vim mode
+bindkey -v
+
 # Customize to your needs...
 source /home/a-fsobczak/programs/zsh-prezto/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /home/a-fsobczak/programs/zsh-prezto/zsh-history-substring-search/zsh-history-substring-search.zsh
@@ -59,6 +62,4 @@ export AFNI_ALLOW_ROIAVERAGE_PLUGIN=YES
 
 # go - a YouCompleteMe (vim plugin) requirement
 export PATH=$PATH:/usr/local/go/bin
-
-bindkey -v
 
